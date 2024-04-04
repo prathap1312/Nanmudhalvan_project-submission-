@@ -3,7 +3,7 @@ REG NO : 412321104046,
 COLLEGE : Sri ramanujar engineering college,
 dept : CSE,
 ADMIN : RANAPRATHAP,
-USERNAME : username,
-PASSWORD : password.
+USERNAME : admin,
+PASSWORD : admin.
 
 
